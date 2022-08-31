@@ -4,7 +4,7 @@ One of the challenge in machine learning is selecting the best features to train
 
 An ANOVA test is a way to find out if survey or experiment results are significant. In other words, they help you to figure out if you need to reject the null hypothesis or accept the alternate hypothesis.
 
-In this project, for model building, linear regression is used, and for feature selection ANOVA test is used. 
+In this project, linear regression is used to train the model, ANOVA test is used to select the features. 
 
 Author: Burcu Ozek
 
